@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Cinthya_GithubUserApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/bgcolor_three</item>
+        <item name="colorPrimaryVariant">@color/bgcolor_one</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/bgcolor_five</item>
+        <item name="colorSecondaryVariant">@color/bgcolor_four</item>
+        <item name="colorOnSecondary">@color/bgcolor_two</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/bgcolor_three</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgcolor_one">#7A86B6</color>
+    <color name="bgcolor_two">#C8B6E2</color>
+    <color name="bgcolor_three">#495C83</color>
+    <color name="bgcolor_four">#A8A4CE</color>
+    <color name="bgcolor_five">#241056</color>
+    <color name="splash_bg">#55417b</color>
+</resources>
